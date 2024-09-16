@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811360459131",
+    "project_id": "webrtc-9e2cc",
+    "storage_bucket": "webrtc-9e2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811360459131:android:bd53dc58d286def9f745de",
+        "android_client_info": {
+          "package_name": "com.example.deovibase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIV2LZ9WkgcyIfSh3WhXHEN0856G_J5X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
