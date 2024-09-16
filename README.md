@@ -1,3 +1,2 @@
 # deovibase
-
-A new Flutter project.
+Video Streaming for a database
