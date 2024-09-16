@@ -55,7 +55,7 @@ This project is a mobile app that combines several technologies, making it usefu
 
 Run the project using the command:
 
-"flutter run" or build the APK file for installation.
+"flutter run" or build the APK file "flutter build apk" for installation.
 
 
 ### Link (If you have deployed your website):
